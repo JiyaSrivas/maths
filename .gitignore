@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Audio scratch cache (the script regenerates on demand)
+audio_cache/
+*.aiff
+frames/
+.DS_Store

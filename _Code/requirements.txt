@@ -1,0 +1,7 @@
+# Required dependencies for rendering the animation video and generating audio
+numpy>=1.26.0
+pillow>=10.0.0
+sympy>=1.12.0
+
+# Optional: For running or developing the Manim version of the scene scripts
+manim>=0.18.0
