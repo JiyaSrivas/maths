@@ -14,7 +14,10 @@
 
 ---
 
-## 📽️ Project Overview & Central Guiding Question
+## 📽️ Project Overview & Video Access
+
+> 🎬 **Direct Video Playback / Download:**  
+> If GitHub's file preview shows *"we can't show files that are this big right now"*, click **[▶️ Download / Stream _Video.mp4 (Raw)](https://github.com/JiyaSrivas/maths/raw/main/_Video.mp4)** or click the **"View raw"** button above to watch or download the full 1080p video directly!
 
 When we apply a linear transformation matrix $A$ to the two-dimensional Cartesian plane, the entire space deforms: coordinate grid lines tilt, unit squares stretch into parallelograms, and almost every vector rotates and gets knocked off its original span.
 
