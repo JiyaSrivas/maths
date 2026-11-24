@@ -14,15 +14,7 @@
 
 ---
 
-## 📽️ Project Overview & Video Access
-
-> 🌐 **Public Streaming Link (Google Drive):**  
-> [![Google Drive](https://img.shields.io/badge/Google%20Drive-Stream%201080p%20Video-blue?logo=googledrive&logoColor=white)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)  
-> **[▶️ Click here to watch / stream the video on Google Drive (Publicly Accessible)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**  
-> *(Zero-download streaming: Teachers and evaluators can press play directly in any web browser)*
-> 
-> 📦 **Alternative Direct Video Download from GitHub:**  
-> If GitHub's file preview shows *"we can't show files that are this big right now"*, click **[▶️ Download / Stream _Video.mp4 (Raw)](https://github.com/JiyaSrivas/maths/raw/main/_Video.mp4)** or click the **"View raw"** button above.
+## 📽️ Project Overview & Central Guiding Question
 
 When we apply a linear transformation matrix $A$ to the two-dimensional Cartesian plane, the entire space deforms: coordinate grid lines tilt, unit squares stretch into parallelograms, and almost every vector rotates and gets knocked off its original span.
 
@@ -50,32 +42,23 @@ This video teaches the concept of **Eigenvalues and Eigenvectors** from first pr
 
 ---
 
-## 📁 Repository Directory Structure & Source Code Access
-
-### 💻 Animation Source Code Files (Click to View directly on GitHub):
-| File | Role & Description | Direct GitHub Link |
-|:---|:---|:---:|
-| **`render_video.py`** | **Master Video Renderer**: Renders all 6 scenes in 1080p Full HD with antialiased geometry, dynamic vector arrows, and audio muxing | [📄 View `render_video.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/render_video.py) |
-| **`eigenvalues_manim.py`** | **Manim Script**: Idiomatic 3Blue1Brown-style Manim Community Edition scene implementation | [📄 View `eigenvalues_manim.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/eigenvalues_manim.py) |
-| **`generate_audio.py`** | **Narration Generator**: Scene-by-scene voice synthesis script synchronized to visual events | [📄 View `generate_audio.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/generate_audio.py) |
-| **`generate_bgm.py`** | **Music Synthesizer**: Programmatic harmonic ambient pad generator at -22 dB | [📄 View `generate_bgm.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/generate_bgm.py) |
-| **`requirements.txt`** | **Dependencies**: Required Python libraries (`numpy`, `pillow`, `sympy`, etc.) | [📄 View `requirements.txt`](https://github.com/JiyaSrivas/maths/blob/main/_Code/requirements.txt) |
+## 📁 Repository Directory Structure
 
 ```text
 .
 ├── _Video.mp4                        # Master 1080p 16:9 MP4 video (5:14 min)
 ├── README.md                         # Project documentation and submission hub
-├── _Code/
+├── _Code/                            # Complete animation source code
 │   ├── render_video.py               # Complete 1080p anti-aliased video renderer
 │   ├── eigenvalues_manim.py          # Idiomatic Manim Community Edition script
 │   ├── generate_audio.py             # Scene-by-scene voice narration generator
 │   ├── generate_bgm.py               # Ambient harmonic synthesizer script
 │   └── requirements.txt              # Python package dependencies
-├── Storyboard/
+├── Storyboard/                       # 6-Scene Storyboard deliverables
 │   ├── Storyboard.pdf                # Submission-ready multi-page Storyboard PDF
 │   ├── Storyboard.md                 # Complete 6-scene storyboard table & transcripts
 │   └── generate_storyboard_pdf.py    # Python script to regenerate the PDF
-└── Documentation/
+└── Documentation/                    # Mathematical derivations & viva prep
     ├── Mathematical_Derivation_and_Verification.md   # Step-by-step proofs & checks
     ├── Viva_QnA_Preparation.md                       # Comprehensive oral exam guide
     └── AI_Disclosure_and_Credits.md                  # Policy compliance & disclosures
