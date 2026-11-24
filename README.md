@@ -16,8 +16,13 @@
 
 ## 📽️ Project Overview & Video Access
 
-> 🎬 **Direct Video Playback / Download:**  
-> If GitHub's file preview shows *"we can't show files that are this big right now"*, click **[▶️ Download / Stream _Video.mp4 (Raw)](https://github.com/JiyaSrivas/maths/raw/main/_Video.mp4)** or click the **"View raw"** button above to watch or download the full 1080p video directly!
+> 🌐 **Public Streaming Link (Google Drive):**  
+> [![Google Drive](https://img.shields.io/badge/Google%20Drive-Stream%201080p%20Video-blue?logo=googledrive&logoColor=white)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)  
+> **[▶️ Click here to watch / stream the video on Google Drive (Publicly Accessible)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**  
+> *(Zero-download streaming: Teachers and evaluators can press play directly in any web browser)*
+> 
+> 📦 **Alternative Direct Video Download from GitHub:**  
+> If GitHub's file preview shows *"we can't show files that are this big right now"*, click **[▶️ Download / Stream _Video.mp4 (Raw)](https://github.com/JiyaSrivas/maths/raw/main/_Video.mp4)** or click the **"View raw"** button above.
 
 When we apply a linear transformation matrix $A$ to the two-dimensional Cartesian plane, the entire space deforms: coordinate grid lines tilt, unit squares stretch into parallelograms, and almost every vector rotates and gets knocked off its original span.
 
