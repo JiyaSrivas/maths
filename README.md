@@ -50,7 +50,16 @@ This video teaches the concept of **Eigenvalues and Eigenvectors** from first pr
 
 ---
 
-## 📁 Repository Directory Structure
+## 📁 Repository Directory Structure & Source Code Access
+
+### 💻 Animation Source Code Files (Click to View directly on GitHub):
+| File | Role & Description | Direct GitHub Link |
+|:---|:---|:---:|
+| **`render_video.py`** | **Master Video Renderer**: Renders all 6 scenes in 1080p Full HD with antialiased geometry, dynamic vector arrows, and audio muxing | [📄 View `render_video.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/render_video.py) |
+| **`eigenvalues_manim.py`** | **Manim Script**: Idiomatic 3Blue1Brown-style Manim Community Edition scene implementation | [📄 View `eigenvalues_manim.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/eigenvalues_manim.py) |
+| **`generate_audio.py`** | **Narration Generator**: Scene-by-scene voice synthesis script synchronized to visual events | [📄 View `generate_audio.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/generate_audio.py) |
+| **`generate_bgm.py`** | **Music Synthesizer**: Programmatic harmonic ambient pad generator at -22 dB | [📄 View `generate_bgm.py`](https://github.com/JiyaSrivas/maths/blob/main/_Code/generate_bgm.py) |
+| **`requirements.txt`** | **Dependencies**: Required Python libraries (`numpy`, `pillow`, `sympy`, etc.) | [📄 View `requirements.txt`](https://github.com/JiyaSrivas/maths/blob/main/_Code/requirements.txt) |
 
 ```text
 .
