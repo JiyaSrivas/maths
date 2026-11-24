@@ -517,7 +517,7 @@ def render_scene_6(frame_idx, total_frames, t_sec, total_sec):
 
     draw.text((160, cred_y + 80), "Course: Linear Algebra and Calculus (M3)", fill=WHITE, font=FONT_HEADING)
     draw.text((160, cred_y + 125), "Topic: Eigenvalues and Eigenvectors: Invariant Directions", fill=GOLD, font=FONT_BODY)
-    draw.text((160, cred_y + 160), "Student Author: Jiya   |   Student ID: [Your Student ID / Roll No.]", fill=WHITE, font=FONT_BODY)
+    draw.text((160, cred_y + 160), "Student Author: Jiya", fill=WHITE, font=FONT_BODY)
 
     draw.line([(160, cred_y + 210), (WIDTH - 160, cred_y + 210)], fill=BORDER_COLOR, width=1)
 

@@ -10,7 +10,6 @@
 > **Official Submission Deadline:** 25th November  
 > **Repository Visibility:** Public  
 > **Student Author:** Jiya  
-> **Student ID / Roll No:** `[Enter Your Student ID Here]`  
 
 ---
 

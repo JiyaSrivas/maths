@@ -198,7 +198,7 @@ class EigenvaluesAndEigenvectors(Scene):
 
         credits = VGroup(
             Text("Course: Linear Algebra & Calculus (M3)", font_size=20, color=GRAY),
-            Text("Student Name: Jiya  |  Roll No / Student ID: [ID]", font_size=20, color="#fbc531"),
+            Text("Student Author: Jiya", font_size=20, color="#fbc531"),
             Text("Tools: Python, Pillow, NumPy, FFmpeg, Manim", font_size=18, color=GRAY),
             Text("Audio: Apple Voice Daniel (Narration) | Royalty-Free Ambient Synthesizer", font_size=18, color=GRAY),
             Text("AI Tools Disclosure: Gemini Assistant utilized for code architecture & layout", font_size=16, color="#e84118")

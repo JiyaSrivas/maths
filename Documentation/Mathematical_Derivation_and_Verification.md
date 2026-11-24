@@ -3,7 +3,6 @@
 **Course**: Linear Algebra and Calculus (M3)  
 **Topic**: Eigenvalues and Eigenvectors: Invariant Directions of Linear Transformations  
 **Author**: Jiya  
-**Student ID**: [Student ID / Roll No.]  
 
 ---
 

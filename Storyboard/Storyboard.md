@@ -114,8 +114,8 @@
   - Final credits frame:
     - Course: Linear Algebra and Calculus (M3)
     - Topic: Eigenvalues and Eigenvectors: Invariant Directions
-    - Author: Jiya (Student ID: [Your ID])
-    - Tools: Python, NumPy, Pillow, FFmpeg, Manim
+    - Author: Jiya
+    - Course: Linear Algebra and Calculus (M3)
     - Audio: High-Quality Narration & Royalty-Free Ambient Synthesizer Pad
     - AI Disclosure: Gemini AI assisted with code architecture and scene timing
 - **Narration Script**:
